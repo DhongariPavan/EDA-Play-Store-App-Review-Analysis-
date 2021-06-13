@@ -2,6 +2,8 @@
 This repository has full code and documentation of EDA project Play Store App Review Analysis 
 # Problem Statement :
 The dataset has play store app reviews with App Names, Categories, Installs, Size, and other features. Our job is to explore the data and provide meaningful insights to the developers so that they could decide whether they should develop an app for the play store or not. If yes, then for which category and how to take on other things such as size, price, and related features of an app.
+
+# All the work is done in the Google Colab notebook
 # Project Motivation :
 Following are the questions I'm looking to answer:
 
